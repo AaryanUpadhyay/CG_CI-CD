@@ -1,8 +1,7 @@
+# Playwright
 node_modules/
-playwright-report/
-allure-results/
-allure-report/
-reports/
 /test-results/
-coverage/
-.DS_Store
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
