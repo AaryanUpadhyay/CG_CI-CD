@@ -13,7 +13,7 @@ export default defineConfig({
     ['allure-playwright'],
   ],
   use: {
-    baseURL: '',
+    baseURL: 'https://phptravels.net',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
